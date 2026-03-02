@@ -5,7 +5,7 @@
 #include <sys/wait.h>
 #include <fcntl.h>
 
-#define INPUT_FILE "./input/if1"
+#define INPUT_FILE "./input/if2"
 #define OUTPUT_FILE "./result"
 
 int main(int argc, char *argv[]) {
